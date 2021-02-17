@@ -3,7 +3,7 @@ const { idToAddress, toSynUser } = require("../utils/user");
 
 module.exports = {
 	name: 'invite',
-	description: 'Invite a user to join Synesthesia.',
+	description: 'Invite a user to join Social Network.',
 	args: 1,
 	usage: '[user]',
 	async execute(message, args) {

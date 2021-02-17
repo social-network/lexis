@@ -1,9 +1,9 @@
 {
   "name": "lexis",
   "version": "0.1.0",
-  "description": "Synesthesia Discord Bot",
+  "description": "Social Network Energy Bot",
   "main": "src/index.js",
-  "repository": "https://github.com/synesthesia-network/lexis.git",
+  "repository": "https://github.com/social-network/lexis.git",
   "author": "Shawn Tabrizi <shawntabrizi@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {

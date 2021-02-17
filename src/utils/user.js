@@ -34,14 +34,14 @@ function mentionToId(mention) {
 	return id;
 }
 
-// This function will attempt to convert some input into a synesthesia user.
+// This function will attempt to convert some input into a Social Network user.
 // Input can be: address, mention, or discord id.
-// Synesthesia user will have all of these properties in one object.
+// Social Network user will have all of these properties in one object.
 function toSynUser(input) {
 	let synUser = {
 		// Discord Id
 		id: null,
-		// Synesthesia Address
+		// Social Network Address
 		address: null,
 		// Discord JS User Object
 		user: null,
